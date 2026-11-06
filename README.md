@@ -8,6 +8,9 @@ Project Overview
 A mechanical engineering team project focused on the design and manufacturing of a flange coupling.
 
 <img width="544" height="812" alt="image" src="https://github.com/user-attachments/assets/3f2575ed-6230-4001-8c9b-b2a218f5501e" />
+
+
+
 [mto report2.pdf](https://github.com/user-attachments/files/34492086/mto.report2.pdf)
 
 ## My Role
