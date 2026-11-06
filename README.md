@@ -30,7 +30,8 @@ Team Leader
 - Engineering Drawing
 - GD&T
 - CNC code
-      N00 G21 G90 G98 G40;
+
+        N00 G21 G90 G98 G40;
       N10 G28 U0W0;
       N20 T0101;
       N30 G50 S1000 M03;
