@@ -1,57 +1,67 @@
-# Flange-Coupling-CAD-CAM-Manufacturing
-Mechanical design and manufacturing of a flange coupling, covering material selection, CAD modelling, CAM, machining, fabrication, assembly, and engineering drawings using SolidWorks 
-Project Overview
+# Flange Coupling – CAD/CAM Design & Manufacturing
+**Mechanical Design | CAD Modelling | CAM Programming | Machining | Assembly**
 
-# Flange Coupling – CAD/CAM & Manufacturing
+## 1. Project Overview
 
-## Project Overview
-A mechanical engineering team project focused on the design and manufacturing of a flange coupling.
+This project involved the design and manufacturing study of a flange coupling, used to connect two shafts and transmit torque between them.
+
+The project covered material selection, 3D CAD modelling, CAM programming, machining, fabrication, and assembly. I worked as the **Team Leader**, coordinating the design and manufacturing activities.
+
+## 2. Objectives
+
+- Understand the design and working principle of a flange coupling.
+- Select suitable materials based on strength and machinability.
+- Develop 3D models and engineering drawings.
+- Prepare machining operations using CAM software.
+- Manufacture and assemble the coupling components.
+
+## 3. Design and Material Selection
+
+The coupling components were designed with consideration for strength, manufacturability, and assembly requirements.
+
+Material selection was an important challenge because the chosen material needed to satisfy both mechanical requirements and machining considerations.
 
 <img width="544" height="812" alt="image" src="https://github.com/user-attachments/assets/3f2575ed-6230-4001-8c9b-b2a218f5501e" />
 
-
-
 [mto report2.pdf](https://github.com/user-attachments/files/34492086/mto.report2.pdf)
 
-## My Role
-Team Leader
+## 4. CAD Modelling – SolidWorks
 
-## Work Involved
-- Material selection
-- 3D CAD modelling using SolidWorks
-- CAM programming using Mastercam
-- Machining and fabrication
-- Component assembly
+- 3D modelling of flange coupling components.
+- Component dimensions and design development.
+- Assembly modelling.
+- Engineering drawing preparation.
 
-## Software & Tools
-- SolidWorks
-- Mastercam
-- CNC Machining
-- Engineering Drawing
-- GD&T
-- CNC code
+## 5. CAM Programming – Mastercam
 
-        N00 G21 G90 G98 G40;
-      N10 G28 U0W0;
-      N20 T0101;
-      N30 G50 S1000 M03;
-      N40 G96 S100 M08;
-      N50 G00 X192 Z0;
-      N60 G71 U0.5 R1;
-      N70 G71 P80 Q140 U0 W0 F2;
-      N80 G01 X42;
-      N90 G03 X45 Z-3 R3;
-      N100 G01 Z-52;
-      N110 G02 X48 Z-55 R3;
-      N120 G01 X92;
-      N130 G03 X95 Z-58 R3;
-      N140 G01 Z-75;
-      N150 P80 Q140 F100;
-      N160 G28 U0W0 M06;
-      N170 M05;
-      N180 M09;
-      N190 M30;
+- CAM programming for machining operations.
+- Toolpath development.
+- Machining process planning.
+- Preparation for component manufacturing.
 
-## Project Focus
-Mechanical Design | CAD/CAM | Manufacturing | Fabrication | Assembly
+## 6. Manufacturing and Assembly
 
+The project involved machining and fabrication of the coupling components, followed by assembly to understand component fit and the overall coupling arrangement.
+
+## 7. My Role – Team Leader
+
+- Coordinated project design and manufacturing activities.
+- Contributed to material selection and design decisions.
+- Worked on CAD modelling and CAM programming.
+- Supported machining, fabrication, and assembly activities.
+
+## 8. Skills Developed
+
+- Mechanical component design.
+- Material selection.
+- SolidWorks 3D modelling and assembly.
+- Mastercam CAM programming.
+- Machining and manufacturing processes.
+- Team coordination and problem-solving.
+
+## Software Used
+
+- SolidWorks – CAD modelling and engineering drawings.
+- Mastercam – CAM programming and toolpath development.
+
+**Project Focus:** Mechanical Design | CAD/CAM | Manufacturing | Machining | Assembly
